@@ -1,0 +1,27 @@
+h1{
+    background-color: gray;
+    padding: 10px;
+    margin: 0px;
+  }
+  
+p {
+    background-color:orange;
+  }
+
+div{
+  background-color: lightblue;
+  padding: 0%;
+  margin: 0%;
+}
+
+/* Question2 */
+h2{
+  text-decoration: line-through;
+
+}
+h3{
+  text-decoration: underline;
+}
+a herf{
+  color: blue;
+}

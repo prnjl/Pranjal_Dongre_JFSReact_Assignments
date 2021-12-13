@@ -1,0 +1,29 @@
+table,th,td{
+    border-collapse: collapse;
+    border-style: solid;
+}
+
+.q6 th{
+    background-color: green;
+    color: ivory;
+    padding: 0%;
+   border: 2px solid green;
+}
+.q6 table td{
+
+    border: 2px solid green;
+}
+
+.q7 p{
+    border: 2px dotted green;
+    content: "";
+    display: block;
+    position: relative;
+  
+}
+.q7 before {
+    border: 2px solid orange;
+    content: "";
+    display: block;
+    position: absolute;
+}
